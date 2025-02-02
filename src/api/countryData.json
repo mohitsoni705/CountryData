@@ -1,0 +1,75 @@
+{
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "flag": "/images/afganisthan.webp",
+        "population": 38928341,
+        "region": "Asia",
+        "capital": "Kabul"
+      },
+      {
+        "name": "Algeria",
+        "flag": "/images/algeria.webp",
+        "population": 43851044,
+        "region": "Africa",
+        "capital": "Algiers"
+      },
+      {
+        "name": "Argentina",
+        "flag": "/images/argentina.webp",
+        "population": 45195777,
+        "region": "Americas",
+        "capital": "Buenos Aires"
+      },
+      {
+        "name": "Australia",
+        "flag": "/images/australia.webp",
+        "population": 25499884,
+        "region": "Oceania",
+        "capital": "Canberra"
+      },
+      {
+        "name": "Brazil",
+        "flag": "/images/brazil.webp",
+        "population": 212559417,
+        "region": "Americas",
+        "capital": "Brasília"
+      },
+      {
+        "name": "Canada",
+        "flag": "/images/canada.jpg",
+        "population": 37742154,
+        "region": "Americas",
+        "capital": "Ottawa"
+      },
+      {
+        "name": "China",
+        "flag": "/images/china.jpg",
+        "population": 1393780000,
+        "region": "Asia",
+        "capital": "Beijing"
+      },
+      {
+        "name": "France",
+        "flag": "/images/france.webp",
+        "population": 67391582,
+        "region": "Europe",
+        "capital": "Paris"
+      },
+      {
+        "name": "Germany",
+        "flag": "/images/germany.webp",
+        "population": 83783942,
+        "region": "Europe",
+        "capital": "Berlin"
+      },
+      {
+        "name": "India",
+        "flag": "/images/india.webp",
+        "population": 1380004385,
+        "region": "Asia",
+        "capital": "New Delhi"
+      }
+    ]
+  }
+  

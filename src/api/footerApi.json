@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Jaipur, Rajasthan"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9664165419"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "mohitsoni3820@gmail.com"
+    }
+  ]
