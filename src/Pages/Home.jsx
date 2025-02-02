@@ -12,10 +12,11 @@ const Home = () => {
           </h1>
             <p className="paragraph">
             Discover the history, culture, and beauty of every nation. Sort search and fliter through countries to find the details you want.
-            </p>
+            </p><NavLink to="/country">
             <button className='btn btn-darken btn-inline bg-white-box'>
-             <NavLink to="/country"> Start Exploring <FaLongArrowAltRight/></NavLink>
+             Start Exploring <FaLongArrowAltRight/>
             </button>
+            </NavLink>
             </div>
         <div className="hero-image">
           <img src="/images/world.png" alt="world img" className='banner-image' />

@@ -20,11 +20,6 @@ const Header = () => {
             <li ><NavLink to="/contact">Contact</NavLink></li>
             <li ><NavLink to="/country">Country</NavLink></li>
           </ul>
-
-          {/* right menu bar */}
-          <ul className='ham-menu'>
-          <ImMenu/>
-          </ul>
         </nav>
       </div>
     </div>

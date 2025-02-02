@@ -644,10 +644,3 @@
   .country-details strong {
     color: #000000;
   }
-  @media (max-width: 600px) {
-    /* … */
-    .navbar{
-      display: none;
-    }
-
-  }
